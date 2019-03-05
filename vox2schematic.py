@@ -3,7 +3,7 @@ from nbt.nbt import *
 from io import BytesIO
 from os import path
 from argparse import ArgumentParser
-from pyvox.parser import VoxParser
+from pyvox.pyvox.parser import VoxParser
 
 formats = ['png', 'vox']
 

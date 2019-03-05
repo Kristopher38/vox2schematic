@@ -1,0 +1,3 @@
+[submodule "pyvox"]
+	path = pyvox
+	url = https://github.com/Kristopher38/py-vox-io
